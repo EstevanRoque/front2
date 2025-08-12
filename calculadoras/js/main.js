@@ -5,5 +5,5 @@ import dark from "./dark.js";
 
 imc()
 combustivel()
-//btus()
+btus()
 dark()
